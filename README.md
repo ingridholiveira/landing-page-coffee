@@ -1,0 +1,1 @@
+## Landing page básica para testar conceitos de HTML, CSS, SASS e validação simples de formulário em JavaScript ##
